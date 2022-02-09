@@ -19,3 +19,15 @@ Belajar kelas Memulai Modul Github. (Progres 56%)
   * Belajar Belajar workflow commit dll.
 
   * Belajar membuat Repository.
+
+**10 Februari 2022**  
+
+Belajar kelas Memulai Modul Github. (Progres 100%)
+
+  * Belajar konsep dasar menggunakan Github.
+
+  * Belajar Membuat README.md. 
+
+  * Berlatih dengan membuat Repository yang lengkap. 
+
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
